@@ -1,5 +1,11 @@
 # bloc_pattern_counter_app
 
+Basic Formula to use this is 
+
+## Sink <Event> -> StreamSink <State int> -> Stream <State int>
+  
+  Niche sab bakwas hai !! Ignore it!!
+
 A new Flutter application.
 
 ## Getting Started
