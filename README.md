@@ -2,7 +2,7 @@
 
 Basic Formula to use this is 
 
-## Sink <Event> -> StreamSink <State int> -> Stream <State int>
+## Sink |>Event| -> StreamSink |>State int| -> Stream |>State int|
   
   Niche sab bakwas hai !! Ignore it!!
 
